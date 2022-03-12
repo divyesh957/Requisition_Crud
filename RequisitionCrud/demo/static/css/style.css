@@ -1,0 +1,159 @@
+﻿.label_search {
+float:right;
+}
+.lable_search {
+    float: right;}
+.button_search {
+float:right;
+    width:10rem;
+    margin-left:18px;
+}
+.jumbo_member {
+    padding: 1rem;
+    margin: 0;
+}
+.table_jum{
+    padding: 1rem;
+    margin: 0;
+    height:70px;
+}
+.page_wrap {
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 52px;
+}
+.Form_input {
+    display: inline-flex;
+    margin:10px;
+    vertical-align:central;
+}
+.icon_mem {
+    padding: 12px;
+}
+.form_chanege{
+    border-radius:0;
+}
+.data_form {
+    display: inline-flex;
+    margin: 0px;
+}
+.table_form {
+    background-color: #6d7686;
+    color: white;
+}
+th.sorting.table_form {
+    color: white;
+}
+.page-item.active .page-link {
+    z-index: 3;
+    color: #fff;
+    background-color: #6d7686;
+    border-color: #6d7686;
+}
+.card .card-header:first-child {
+     border-radius: 0; 
+}
+
+.button_pen {
+    margin-left: 38px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.button_pen3 {
+    margin-left: 38px;
+    margin-top: 24px;
+    margin-bottom: 10px;
+}
+.button_topup {
+    margin-left: 8rem;
+    width: 7rem;
+    margin-bottom: 25px;
+}
+
+}
+.button_pen1 {
+    margin-left: 192px;
+    width: 9rem;
+}
+.Mobi_edit{
+    margin-left:5PX;;
+}
+.edit1 {
+    margin-left: 10px;
+}
+.edit2 {
+    margin-left: 21px;
+}
+.edit3 {
+    margin-left: 11PX;
+}
+.edit5 {
+    margin-left: 14PX;
+}
+.edit6 {
+    margin-left: 14PX;
+}
+.edit7 {
+    margin-left: 5PX;
+}
+.pend_invoice {
+    margin-left: 10px;
+}
+.drop_pro {
+height:10px;
+}
+.sub_color {
+    color: white;
+}
+.pen_voice {
+    margin-left: 32px;
+}
+.pen_vo {
+margin-left:-6px;
+}
+.conf_voice {
+margin-left:-4px;
+}
+.WRAP{
+    width:100%;
+}
+.ac_manage {
+    margin-left: 234px;
+}
+.reply {
+display:inline-flex;
+
+}
+
+
+button.btn.btn-default.bg-dark.bg-dark.text-white.button_pen1 {
+    margin-left: 179px;
+}
+.calender {
+width:80%;
+}
+.mar_ex {
+    margin-left: -17px;
+}
+.new_ser {
+    margin-top: 24px;
+}
+.input_width {
+width:50%;
+
+}
+.Mem_pas {
+    margin-left: 13rem;
+}
+
+.page-content2 {
+    width: 100%;
+    position: relative;
+    padding: 0 8px 52px 8px;
+    display: inline-block;
+}
+
+
+
+
+
